@@ -7,6 +7,13 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=Rudransh-Singh-Athwal&&show_icons=true&&hide_border=false&&theme=midnight-purple&&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudransh-Singh-Athwal&&theme=midnight-purple&&hide_border=false&&show_icons=true"/> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+- 🌱 Currently Curious and learning  **System Design**  
+- 👨‍💻 All of my projects are available at [https://github.com/Rudransh-Singh-Athwal](https://github.com/Rudransh-Singh-Athwal)  
+- 💬 Ask me about **React, Next.js, Node.js**  
+- 📫 How to reach me **rsathwal04@gmail.com**  
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/drive/folders/1pD1kuPLWka4VOGPpc_a6RXeWvvfaR37Z)  
+- ⚡ Fun fact: **I love debugging complex systems & automating workflows** 
+
 <h2 align="left"> My LeetCode Profile </h2>
 <a href="https://leetcode.com/rsathwal04/" target="blank">
   <img src="https://leetcard.jacoblin.cool/rsathwal04?theme=dark&font=Nunito&ext=heatmap" />
@@ -46,6 +53,8 @@
 <!-- ![Redis](https://img.shields.io/badge/Redis-black.svg?style=for-the-badge&logo=redis&logoColor=234ea94b)&nbsp; -->
 
 <br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rudransh-Singh-Athwal&show_icons=true&locale=en&layout=compact" alt="Rudransh-Singh-Athwal" /></p>
 
 <h2 align="left"> 🤝🏻 Connect with me </h2>
 
