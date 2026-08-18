@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Rudransh-Singh-Athwal](https://github.com/Rudransh-Singh-Athwal)  
 - 💬 Ask me about **React, Next.js, Node.js**  
 - 📫 How to reach me **rsathwal04@gmail.com**  
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/drive/folders/1pD1kuPLWka4VOGPpc_a6RXeWvvfaR37Z)  
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/drive/folders/1fHBO1AoIm0YYxpAt4F8VbnwzZB-RUe8W?usp=drive_link)  
 - ⚡ Fun fact: **I love debugging complex systems & automating workflows** 
 
 <h2 align="left"> My LeetCode Profile </h2>
